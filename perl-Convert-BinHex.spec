@@ -5,7 +5,7 @@ Summary:	Convert::BinHex Perl module - support for BinHex format used on Macs
 Summary(pl):	Modu³ Perla Convert::PEM - wsparcie dla formatu BinHex u¿ywanego na Macach
 Name:		perl-Convert-BinHex
 Version:	1.119
-Release:	0.1
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
