@@ -26,7 +26,7 @@ back into into binary data.
 BinHex jest formatem u¿ywanym na Macintoshach do bezpiecznego
 przesy³ania plików przez pocztê elektroniczn± jako zakodowanych
 7-bitowych strumieni danych. Modu³ dostarcza funkcjonalno¶æ
-pozwalaj±c± zamieniæ te strumienie danych spowrotem na pliki.
+pozwalaj±c± zamieniæ te strumienie danych z powrotem na pliki.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
