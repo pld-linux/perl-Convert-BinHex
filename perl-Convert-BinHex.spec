@@ -2,7 +2,7 @@
 %define	pdir	Convert
 %define	pnam	BinHex
 Summary:	Convert::BinHex Perl module - support for BinHex format used on Macs
-Summary(pl):	Modu³ Perla Convert::PEM - wsparcie dla formatu BinHex u¿ywanego na Macach
+Summary(pl.UTF-8):   ModuÅ‚ Perla Convert::PEM - wsparcie dla formatu BinHex uÅ¼ywanego na Macach
 Name:		perl-Convert-BinHex
 Version:	1.119
 Release:	1
@@ -22,11 +22,11 @@ through electronic mail, as short-lined, 7-bit, semi-compressed data
 streams. Ths module provides a means of converting those data streams
 back into into binary data.
 
-%description -l pl
-BinHex jest formatem u¿ywanym na Macintoshach do bezpiecznego
-przesy³ania plików przez pocztê elektroniczn± jako zakodowanych
-7-bitowych strumieni danych. Modu³ dostarcza funkcjonalno¶æ
-pozwalaj±c± zamieniæ te strumienie danych z powrotem na pliki.
+%description -l pl.UTF-8
+BinHex jest formatem uÅ¼ywanym na Macintoshach do bezpiecznego
+przesyÅ‚ania plikÃ³w przez pocztÄ™ elektronicznÄ… jako zakodowanych
+7-bitowych strumieni danych. ModuÅ‚ dostarcza funkcjonalnoÅ›Ä‡
+pozwalajÄ…cÄ… zamieniÄ‡ te strumienie danych z powrotem na pliki.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
