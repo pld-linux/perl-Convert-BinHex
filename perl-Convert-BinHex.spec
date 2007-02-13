@@ -2,7 +2,7 @@
 %define	pdir	Convert
 %define	pnam	BinHex
 Summary:	Convert::BinHex Perl module - support for BinHex format used on Macs
-Summary(pl.UTF-8):   Moduł Perla Convert::PEM - wsparcie dla formatu BinHex używanego na Macach
+Summary(pl.UTF-8):	Moduł Perla Convert::PEM - wsparcie dla formatu BinHex używanego na Macach
 Name:		perl-Convert-BinHex
 Version:	1.119
 Release:	1
