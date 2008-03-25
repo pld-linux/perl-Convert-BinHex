@@ -2,15 +2,16 @@
 %define	pdir	Convert
 %define	pnam	BinHex
 Summary:	Convert::BinHex Perl module - support for BinHex format used on Macs
-Summary(pl.UTF-8):	Moduł Perla Convert::PEM - wsparcie dla formatu BinHex używanego na Macach
+Summary(pl.UTF-8):	Moduł Perla Convert::PEM - obsługa formatu BinHex używanego na Macach
 Name:		perl-Convert-BinHex
 Version:	1.119
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
+Source0:	http://www.cpan.org/modules/by-module/Convert/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	ba70ad1772abac6270078f28197a7961
+URL:		http://search.cpan.org/dist/Convert-BinHex/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
