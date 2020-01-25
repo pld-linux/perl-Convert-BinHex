@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Convert
 %define	pnam	BinHex
 Summary:	Convert::BinHex Perl module - support for BinHex format used on Macs
